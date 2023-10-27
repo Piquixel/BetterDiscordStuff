@@ -41,7 +41,7 @@
 		"TOOLTIP_SET_STATUS": "Définir le status",
 		"DEFAULT": "Par défaut",
 		"SETTINGS_CLICK": "Clic",
-		"SETTINGS_CLICK_NOTE": "Ce qui s'ouvre en cliquant sur l'avatar utilisateur. RAPPEL Si rien n'est défini pour ouvrir les paramètres, vous pouvez utiliser le raccourcis Ctrl + ,.",
+		"SETTINGS_CLICK_NOTE": "Ce qui s'ouvre en cliquant sur l'avatar utilisateur. RAPPEL Si rien n'est défini pour ouvrir les paramètres, vous pouvez utiliser le raccourcis \"Ctrl + ,\".",
 		"SETTINGS_RIGHT_CLICK": "Clic Droit",
 		"SETTINGS_RIGHT_CLICK_NOTE": "Ce qui s'ouvre en cliquant droit sur l'avatar utilisateur.",
 		"SETTINGS_MIDDLE_CLICK": "Clic Molette",
