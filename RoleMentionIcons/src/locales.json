@@ -21,6 +21,6 @@
 		"SETTINGS_HERE": "@here",
 		"SETTINGS_HERE_NOTE": "Affiche des icônes sur les mentions \"@here\".",
 		"SETTINGS_ROLE_ICONS": "Icônes de Rôle",
-		"SETTINGS_ROLE_ICONS_NOTE": "Affiche des icônes de rôle au lieu des icônes par défaut quand applicable"
+		"SETTINGS_ROLE_ICONS_NOTE": "Affiche des icônes de rôle au lieu des icônes par défaut si applicable."
 	}
 }
